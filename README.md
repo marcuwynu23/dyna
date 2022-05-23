@@ -1,2 +1,2 @@
 # DYNA 
-A commandline tools for creating mongodb,express,nunjucks and nodejs application 
+A commandline tools for creating Web-Application with use of mongodb,express,nunjucks and nodejs application 

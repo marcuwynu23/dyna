@@ -8,7 +8,7 @@ all:
 
 # running executable
 run:
-	$(BIN) -i rd 0
+	$(BIN)
 
 
 # cleaning executable
